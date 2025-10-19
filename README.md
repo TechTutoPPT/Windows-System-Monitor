@@ -1,4 +1,4 @@
-[![](https://github.com/TechTutoPPT/Windows-System-Monitor/blob/main/IMG_8403.PNG)](https://youtu.be/h4ji8kBgvJQ)
+[![](https://github.com/TechTutoPPT/Windows-System-Monitor/blob/main/IMG_8403.PNG)](https://youtu.be/ZPCOMcJlm68)
 
 評估電腦是否運作正常, 最直觀的方法就是查看電腦各裝置的運作情況, 例如CPU佔用比率是否長期維持在高水平, 
 記憶體是否顯示容量不足, 磁碟是否長期處於高強度運轉, 平時網絡是否有不尋常的流量等等.
